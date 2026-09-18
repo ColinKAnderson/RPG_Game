@@ -3,6 +3,7 @@ from Classes import Character
 class PlayerCharacter(Character):
     """Represents the player character. Subclasses Character."""
 
+    is_dead = False
     experience = 0
 
     def __init__(self, stats):
