@@ -25,3 +25,4 @@ class EnemyGenerator:
         for selection in enemy_group_levels:
             enemy_group.append(EnemyCharacter(selection))
         return enemy_group
+# safety comment

@@ -7,3 +7,4 @@ class GameObject:
     def __init__(self):
         """Initialization method, obviously."""
         pass
+# safety comment

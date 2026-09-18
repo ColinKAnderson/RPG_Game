@@ -14,3 +14,4 @@ class Character:
     def increase_health(self, amount_of_increase):
         """Increase the health of the character by amount_of_increase."""
         self.health += amount_of_increase
+# safety comment

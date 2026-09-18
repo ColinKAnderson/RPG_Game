@@ -20,3 +20,4 @@ while game.is_running:
     if player.is_dead:
         print("You lose!")
         game.is_running = False
+# safety comment

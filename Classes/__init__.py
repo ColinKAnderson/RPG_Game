@@ -6,3 +6,4 @@ from .GameObject import *
 from .PlayerCharacter import *
 
 __all__ = ['Character', 'CombatEngine', 'EnemyCharacter', 'EnemyGenerator', 'GameObject', 'PlayerCharacter']
+# safety comment

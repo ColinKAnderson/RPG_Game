@@ -28,3 +28,4 @@ class EnemyCharacter(Character):
         health = random.choice(stat_ranges["health"])
         attack = random.choice(stat_ranges["attack"])
         return health,attack
+# safety comment

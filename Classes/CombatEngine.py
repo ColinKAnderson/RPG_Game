@@ -35,3 +35,4 @@ class CombatEngine:
     def flee(self):
         self.combat_is_occurring = False
         print("Combat ends!")
+# safety comment

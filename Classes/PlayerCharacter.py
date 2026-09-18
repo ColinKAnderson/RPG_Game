@@ -22,3 +22,4 @@ class PlayerCharacter(Character):
     def increase_experience(self, amount):
         """Increases player experience by amount."""
         self.experience += amount
+# safety comment
