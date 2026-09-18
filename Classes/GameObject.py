@@ -5,4 +5,5 @@ class GameObject:
     exit_commands = ["quit", "exit"]
 
     def __init__(self):
+        """Initialization method, obviously."""
         pass
